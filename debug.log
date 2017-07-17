@@ -1,0 +1,2851 @@
+Quick-Cocos2dx-Community C++ support ready.
+
+------------------------------------------------
+
+LOAD LUA FILE: E:/cocos_ide_code/RunTV/src/main.lua
+
+------------------------------------------------
+
+[LUA-print] ===========================================================
+
+[LUA-print]               LOAD QUICK FRAMEWORK
+
+[LUA-print] ===========================================================
+
+[LUA-print] [INFO] 
+
+[LUA-print] [INFO] # DEBUG                        = 1
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # device.platform              = windows
+
+[LUA-print] [INFO] # device.model                 = unknown
+
+[LUA-print] [INFO] # device.language              = cn
+
+[LUA-print] [INFO] # device.writablePath          = E:\cocos_ide_code\RunTV\
+
+[LUA-print] [INFO] # device.directorySeparator    = \
+
+[LUA-print] [INFO] # device.pathSeparator         = ;
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 960.00
+
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 640.00
+
+[LUA-print] [INFO] # display.widthInPixels        = 960.00
+
+[LUA-print] [INFO] # display.heightInPixels       = 640.00
+
+[LUA-print] [INFO] # display.contentScaleFactor   = 1.00
+
+[LUA-print] [INFO] # display.width                = 960.00
+
+[LUA-print] [INFO] # display.height               = 640.00
+
+[LUA-print] [INFO] # display.cx                   = 480.00
+
+[LUA-print] [INFO] # display.cy                   = 320.00
+
+[LUA-print] [INFO] # display.left                 = 0.00
+
+[LUA-print] [INFO] # display.right                = 960.00
+
+[LUA-print] [INFO] # display.top                  = 640.00
+
+[LUA-print] [INFO] # display.bottom               = 0.00
+
+[LUA-print] [INFO] # display.c_left               = -480.00
+
+[LUA-print] [INFO] # display.c_right              = 480.00
+
+[LUA-print] [INFO] # display.c_top                = 320.00
+
+[LUA-print] [INFO] # display.c_bottom             = -320.00
+
+[LUA-print] [INFO] #
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/power_pressed.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/black.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/slide_full2.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/help_pressed.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_1.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/poster.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/slide_empty.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/continue_pressed_m.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/checkbox_pressed.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/editbox.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_0.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_2.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_3.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_4.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/back_normal.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/black_background.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/TV_Dog.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/achievement_pressed.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/setting_pressed.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/back_pressed_m.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/restart_pressed_m.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/stop_pressed_m.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/continue_normal_m.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/wine_red.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/checkbox_off.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/checkbox_on.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/back_pressed.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/power_normal_light.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/help_normal.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/editbox2.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/setting_normal.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/white.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/achievement_normal.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/cube_plist/cube.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/power_normal.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/power_pressed_light.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/square.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_3.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_0.png
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_3.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_4.png
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] ----------------------------------------
+
+[LUA-print] LUA ERROR: [string ".\src/app/scenes/PlayScene.lua"]:482: invalid 'cobj' in function 'lua_cocos2dx_Node_setPosition'
+
+
+[LUA-print] 
+stack traceback:
+	[C]: in function 'setPosition'
+	[string ".\src/app/scenes/PlayScene.lua"]:482: in function <[string ".\src/app/scenes/PlayScene.lua"]:441>
+
+[LUA-print] ----------------------------------------
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_3.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/editbox.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/setting_normal.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/back_pressed_m.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/help_pressed.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_1.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/black.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/continue_pressed_m.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_0.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/help_normal.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_2.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_3.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/barricade_4.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/black_background.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/editbox2.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/TV_Dog.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/white.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/achievement_normal.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/achievement_pressed.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/setting_pressed.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/restart_pressed_m.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/stop_pressed_m.png
+
+cocos2d: TextureCache: removing unused texture: E:/cocos_ide_code/RunTV/res/button/continue_normal_m.png
+
+cocos2d: removeChildByTag(tag = -86050082): child not found!
+
+[LUA-print] [ERR] display.newSpriteFrame() - invalid frameName bigTV_pressed_05.png
+
+[LUA-print] 
+stack traceback:
+	[string ".\framework/display.lua"]:1592: in function 'newSpriteFrame'
+	[string ".\framework/display.lua"]:672: in function 'newSprite'
+	[string ".\src/app/scenes/MainScene.lua"]:112: in function 'initStartBtn'
+	[string ".\src/app/scenes/MainScene.lua"]:14: in function 'ctor'
+	[string ".\framework/functions.lua"]:315: in function 'new'
+	[string ".\src/app/scenes/FristScene.lua"]:212: in function <[string ".\src/app/scenes/FristScene.lua"]:205>
+
+[LUA-print] [ERR] display.newSprite() - create sprite failure, filename #bigTV_pressed_05.png
+
+[LUA-print] 
+stack traceback:
+	[string ".\framework/display.lua"]:706: in function 'newSprite'
+	[string ".\src/app/scenes/MainScene.lua"]:112: in function 'initStartBtn'
+	[string ".\src/app/scenes/MainScene.lua"]:14: in function 'ctor'
+	[string ".\framework/functions.lua"]:315: in function 'new'
+	[string ".\src/app/scenes/FristScene.lua"]:212: in function <[string ".\src/app/scenes/FristScene.lua"]:205>
+

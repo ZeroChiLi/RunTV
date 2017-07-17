@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userDefaultRoot>
+    <one_key>true</one_key>
+    <sound_key>false</sound_key>
+    <music_key>false</music_key>
+    <restart_key>true</restart_key>
+    <night_key>false</night_key>
+    <particle_key>true</particle_key>
+    <playRunTime>421</playRunTime>
+    <playFlyTime>206</playFlyTime>
+    <playSwimTime>198</playSwimTime>
+    <playTotalTime>509</playTotalTime>
+    <recordScore>2.000000</recordScore>
+    <playTotalScore>2081.000000</playTotalScore>
+    <playAveragerScore>4.096457</playAveragerScore>
+    <diedTotalTime>92</diedTotalTime>
+    <diedRunTime>18</diedRunTime>
+    <diedFlyTime>47</diedFlyTime>
+    <diedSwimTime>26</diedSwimTime>
+    <jumpTotalTime>1662</jumpTotalTime>
+    <jumpRunTime>292</jumpRunTime>
+    <jumpFlyTime>1043</jumpFlyTime>
+    <jumpSwimTime>327</jumpSwimTime>
+    <ranking_name_1>无名傻叼</ranking_name_1>
+    <ranking_1>245.300003</ranking_1>
+    <ranking_name_2>当然是炽利帅哥</ranking_name_2>
+    <ranking_2>233.330002</ranking_2>
+    <ranking_name_3>无名傻叼</ranking_name_3>
+    <ranking_3>145.800003</ranking_3>
+    <ranking_name_4>无名傻叼</ranking_name_4>
+    <ranking_4>114.099998</ranking_4>
+    <ranking_name_5>无名傻叼</ranking_name_5>
+    <ranking_5>106.300003</ranking_5>
+    <ranking_name_6>无名傻叼</ranking_name_6>
+    <ranking_6>83.500000</ranking_6>
+    <ranking_name_7>没有名字的傻叼</ranking_name_7>
+    <ranking_7>58.799999</ranking_7>
+    <ranking_name_8>无名傻叼</ranking_name_8>
+    <ranking_8>55.000000</ranking_8>
+    <ranking_name_9>无名傻叼</ranking_name_9>
+    <ranking_9>43.900002</ranking_9>
+    <ranking_name_10>无名傻叼</ranking_name_10>
+    <ranking_10>42.400002</ranking_10>
+</userDefaultRoot>
